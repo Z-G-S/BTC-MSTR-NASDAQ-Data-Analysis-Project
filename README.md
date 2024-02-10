@@ -18,3 +18,14 @@ The model explores the relationship between the price growth of Bitcoin (BTC) an
    Visualised using Histograms, Normal Q-Q Plots and Detrended Normal Q-Q Plots.
 4. Draw empirical conclusions to provide stakeholders with useful insights for decision-making.
 
+**Overview of processing steps**
+
+_Excel_: Using the MATCH function to align dates
+
+BTC is open for trade everyday whereas MSTR and NASDAQ is only open for trade on non-holiday weekdays. This caused a misalignment in the date variable column. To fix this, the MATCH function was used to search the BTC date values in the MSTR?NASDAQ date values, returning #N/A if missing. From here, the missing dates were pasted at the end of the MSTR/NASDAQ date variable column, sorted from oldest to newest which aligned values, and the duplicate date variable was subsequently deleted. The series of images below show the origional dataset (note the misalignment with the date variable values) and the processed dataset with aligned dates and a pattern of missing values for MSTR and NASDAQ associated variables.
+
+![Screenshot 2024-02-10 005526](https://github.com/Z-G-S/BTC-MSTR-NASDAQ-Data-Analysis-Project/assets/140622522/4b8b4d94-7c8b-4d27-8fb1-7b97f232528f)
+![Screenshot 2024-02-10 005538](https://github.com/Z-G-S/BTC-MSTR-NASDAQ-Data-Analysis-Project/assets/140622522/4078cee7-21ae-4b6b-89d7-17e5533f433a)
+
+
+_SPSS_: Dealing with missing values
