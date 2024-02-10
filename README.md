@@ -33,8 +33,12 @@ The missing values in the MSTR and NASDAQ variables were dealt in the Missing Va
 
 **Output**
 
-![Screenshot 2024-02-10 005942](https://github.com/Z-G-S/BTC-MSTR-NASDAQ-Data-Analysis-Project/assets/140622522/4e32ee76-2284-456a-9b51-055e49befb1e)
-![Screenshot 2024-02-10 005932](https://github.com/Z-G-S/BTC-MSTR-NASDAQ-Data-Analysis-Project/assets/140622522/764ba578-5f8a-4392-962a-49d6d7268fb9)
-![Screenshot 2024-02-10 005921](https://github.com/Z-G-S/BTC-MSTR-NASDAQ-Data-Analysis-Project/assets/140622522/7ad9274a-4e56-46b0-8a13-48aeca5479c4)
-![Screenshot 2024-02-10 005910](https://github.com/Z-G-S/BTC-MSTR-NASDAQ-Data-Analysis-Project/assets/140622522/2bf9e5b4-d1de-456d-a757-32d13e62607f)
 ![Screenshot 2024-02-10 005858](https://github.com/Z-G-S/BTC-MSTR-NASDAQ-Data-Analysis-Project/assets/140622522/2ab1c060-24da-4d65-a0c4-c5fdaa942f90)
+![Screenshot 2024-02-10 005910](https://github.com/Z-G-S/BTC-MSTR-NASDAQ-Data-Analysis-Project/assets/140622522/2bf9e5b4-d1de-456d-a757-32d13e62607f)
+![Screenshot 2024-02-10 005921](https://github.com/Z-G-S/BTC-MSTR-NASDAQ-Data-Analysis-Project/assets/140622522/7ad9274a-4e56-46b0-8a13-48aeca5479c4)
+![Screenshot 2024-02-10 005932](https://github.com/Z-G-S/BTC-MSTR-NASDAQ-Data-Analysis-Project/assets/140622522/764ba578-5f8a-4392-962a-49d6d7268fb9)
+![Screenshot 2024-02-10 005942](https://github.com/Z-G-S/BTC-MSTR-NASDAQ-Data-Analysis-Project/assets/140622522/4e32ee76-2284-456a-9b51-055e49befb1e)
+
+
+
+
