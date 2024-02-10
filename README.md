@@ -10,7 +10,7 @@ The model explores the relationship between the price growth of Bitcoin (BTC) an
 
 **Objectives**
 
-1. Determine the strength of the relationship between the price growth of BTC and the price growth of MSTR
+1. Determine the strength of the relationship between the price growth of BTC and the price growth of MSTR ######
    Measured using Pearson’s Correlation Coefficient (r), and the Coefficient of Determination (r2) to determine how well the statistical model explains the variance of the dependent variable (MSTR) 
    Visualised using a Line Graph and Scatter Plot
 3. Compare the daily volatility of MSTR to NASDAQ
