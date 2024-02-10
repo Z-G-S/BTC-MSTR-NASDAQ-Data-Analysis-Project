@@ -33,6 +33,8 @@ The missing values in the MSTR and NASDAQ variables were dealt in the Missing Va
 
 **Output**
 
+The model outputs a multi-line graph, visually showing the relationship between BTC and MSTR, where the price growth of MSTR closely follows the direction and values of BTC. A scatter plot coloured by date, the correlation between BTC and MSTR, returning a value of 0.90 suggesting that the relationship is strong (correlation vs causation limitation is considered in the report), histogram plots and Normal and Detrended Normal Q-Q plots which explore how MSTR behaves differently to NASDAQ. A detailed analysis of each visualisation can be found in the report.
+
 ![Screenshot 2024-02-10 005858](https://github.com/Z-G-S/BTC-MSTR-NASDAQ-Data-Analysis-Project/assets/140622522/2ab1c060-24da-4d65-a0c4-c5fdaa942f90)
 ![Screenshot 2024-02-10 005910](https://github.com/Z-G-S/BTC-MSTR-NASDAQ-Data-Analysis-Project/assets/140622522/2bf9e5b4-d1de-456d-a757-32d13e62607f)
 ![Screenshot 2024-02-10 005921](https://github.com/Z-G-S/BTC-MSTR-NASDAQ-Data-Analysis-Project/assets/140622522/7ad9274a-4e56-46b0-8a13-48aeca5479c4)
