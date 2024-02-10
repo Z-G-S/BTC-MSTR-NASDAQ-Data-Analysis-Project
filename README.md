@@ -27,5 +27,6 @@ BTC is open for trade everyday whereas MSTR and NASDAQ is only open for trade on
 ![Screenshot 2024-02-10 005526](https://github.com/Z-G-S/BTC-MSTR-NASDAQ-Data-Analysis-Project/assets/140622522/4b8b4d94-7c8b-4d27-8fb1-7b97f232528f)
 ![Screenshot 2024-02-10 005538](https://github.com/Z-G-S/BTC-MSTR-NASDAQ-Data-Analysis-Project/assets/140622522/4078cee7-21ae-4b6b-89d7-17e5533f433a)
 
-
 _SPSS_: Dealing with missing values
+
+The missing values in the MSTR and NASDAQ variables were dealt in the Missing Values Handler in SPSS. The method used was 'Mean of nearby points' with a span of two.
